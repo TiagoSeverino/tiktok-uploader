@@ -1,13 +1,13 @@
 {
-	"name": "typescript-template",
+	"name": "tiktok-uploader",
 	"version": "1.0.0",
-	"main": "index.js",
-	"repository": "git@github.com:TiagoSeverino/typescript-template.git",
+	"main": "dist/index.js",
+	"repository": "git@github.com:TiagoSeverino/tiktok-uploader.git",
 	"author": "TiagoSeverino <tiago@severino.xyz>",
 	"license": "MIT",
 	"scripts": {
 		"build": "tsc",
-		"dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/index.ts"
+		"dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/example.ts"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^4.8.2",
