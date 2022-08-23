@@ -26,5 +26,13 @@
 		"puppeteer": "^16.2.0",
 		"puppeteer-extra": "^3.3.4",
 		"puppeteer-extra-plugin-stealth": "^2.11.1"
-	}
+	},
+	"keywords": [
+		"tiktok",
+		"video",
+		"videos",
+		"upload",
+		"uploader",
+		"puppeteer"
+	]
 }
