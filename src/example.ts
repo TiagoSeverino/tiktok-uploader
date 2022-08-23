@@ -1,6 +1,9 @@
+/* eslint-disable no-console */
+/* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable consistent-return */
-import uploadTiktok from './index';
-import cookies from './cookies.json';
+import uploadTiktok from '.';
+
+const cookies = require('../cookies.json');
 
 uploadTiktok(
 	{
