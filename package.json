@@ -1,6 +1,6 @@
 {
 	"name": "tiktok-uploader",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "dist/index.js",
 	"repository": "git@github.com:TiagoSeverino/tiktok-uploader.git",
 	"author": "TiagoSeverino <tiago@severino.xyz>",
