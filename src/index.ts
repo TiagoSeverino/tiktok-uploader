@@ -36,8 +36,6 @@ const getBrowser = async (cookies: Protocol.Network.CookieParam[] = []) => {
 		})
 	);
 
-	await page.setCookie();
-
 	await page.setViewport({
 		width: 1920,
 		height: 1080,
