@@ -1,6 +1,6 @@
 {
-	"name": "tiktok-uploader",
-	"version": "1.0.1",
+	"name": "@TiagoSeverino/tiktok-uploader",
+	"version": "1.0.0",
 	"main": "dist/index.js",
 	"repository": "git@github.com:TiagoSeverino/tiktok-uploader.git",
 	"author": "TiagoSeverino <tiago@severino.xyz>",
@@ -26,6 +26,9 @@
 		"puppeteer": "^16.2.0",
 		"puppeteer-extra": "^3.3.4",
 		"puppeteer-extra-plugin-stealth": "^2.11.1"
+	},
+	"publishConfig": {
+		"@TiagoSeverino:registry": "https://npm.pkg.github.com/"
 	},
 	"keywords": [
 		"tiktok",
